@@ -3,6 +3,10 @@
 > Created with ❤️ by **Team-Bandaheali**
 
 <p align="center">
+<img src="https://bandaheali-cdn.koyeb.app/bandaheali/smd.jpg" alt="SMD-MINI" width="500">
+</p>
+
+<p align="center">
 
 <a href="https://github.com/iTx-Sarkar/SMD-MINI/fork">
 <img src="https://img.shields.io/badge/FORK-SMD--MINI-blue?style=for-the-badge&logo=github">
@@ -27,6 +31,10 @@ It includes a plugin system, automation features, and a scalable bot architectur
 ---
 
 # 👑 Team Bandaheali
+
+<p align="center">
+<img src="https://bandaheali-cdn.koyeb.app/bandaheali/team.jpg" alt="Team-Bandaheali" width="500">
+</p>
 
 <p align="center">
 
