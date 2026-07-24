@@ -58,7 +58,7 @@ It includes a plugin system, automation features, and a scalable bot architectur
 
 <p align="center">
 
-<a href="[[https://whatsapp.com/channel/0029VaDaBJGJUM2jS0z59S3s]([https://whatsapp.com/channel/0029Vb84fm6Ae5VugThS6F07](https://whatsapp.com/channel/0029Vb84fm6Ae5VugThS6F07))]([https://whatsapp.com/channel/0029Vb84fm6Ae5VugThS6F07](https://whatsapp.com/channel/0029Vb84fm6Ae5VugThS6F07))">
+<a href="https://whatsapp.com/channel/0029Vb84fm6Ae5VugThS6F07">
 <img src="https://img.shields.io/badge/JOIN-WHATSAPP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
