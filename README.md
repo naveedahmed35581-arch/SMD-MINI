@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/GITHUB-REPOSITORY-black?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://smd-mini.bandaheali.site">
+<a href="https://smd-mini.zone.id">
 <img src="https://img.shields.io/badge/DEPLOY-SMD--MINI-success?style=for-the-badge&logo=vercel">
 </a>
 
